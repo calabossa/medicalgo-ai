@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Original unoptimized images (already copied to images/ folder)
+/logo_combined.jpg
+/Cajal.png
+/epilepsy_gemini.png
+/me.png
+/me2.png
+/Screenshot*.png
+
+# Memory folder (Claude Code's local memory)
+memory/
